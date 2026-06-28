@@ -11,3 +11,5 @@ In this Class, I will teach you some topics about fluid mechancis that is addanc
 ## 授课内容
 * 基本数学工具
 * 流体运动学
+* 流体静力学
+* 粘性流体力学
