@@ -6,3 +6,4 @@ In this Class, I will teach you some topics about fluid mechancis that is addanc
 ## reading material
 
 * Fluid Mechancis by Wangyi Wu
+* Advanced Fluid Mechancis by Dong.
